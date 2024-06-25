@@ -5,5 +5,7 @@ theme:
   name: material
   palette:
     primary: black
+    accent: blue
   logo: img/icon.png
+  favicon: img/icon.png
   language: ja
