@@ -4,7 +4,7 @@ theme:
   name: material
   palette:
     primary: black
-    accent: blue
+    accent: yellow
   logo: img/icon.png
   favicon: img/icon.png
   language: ja
