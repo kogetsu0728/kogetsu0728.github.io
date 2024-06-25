@@ -2,7 +2,8 @@ site_name: Kogetsu
 site_url: https://kogetsu0728.github.io/
 
 theme:
-  language: ja
   name: material
   palette:
     primary: black
+  logo: img/icon.png
+  language: ja
