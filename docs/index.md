@@ -8,7 +8,7 @@ vim初心者を2年ほど続けています <br>
 
 ### アカウント情報
 - AtCoder: [ku_senjan](https://atcoder.jp/users/ku_senjan)
-- Codeforces: [ku_senjan](https://atcoder.jp/users/ku_senjan)
+- Codeforces: [ku_senjan](https://codeforces.com/profile/ku_senjan)
 - OnlineMathContest: [ku_senjan](https://onlinemathcontest.com/users/ku_senjan)
 - Kaggle: [kogetsu0728](https://www.kaggle.com/kogetsu0728)
 - GitHub: [kogetsu0728](https://github.com/kogetsu0728)
