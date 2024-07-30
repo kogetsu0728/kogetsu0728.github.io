@@ -1,18 +1,10 @@
 # Home
-よろしくお願いしまーーーーーす！ <br>
+よろしくお願いしまーーーーーす <br>
 いずれちゃんとしたホームページを作成予定です <br>
 
 ## Profile
-高専4年です <br>
-vim初心者を2年ほど続けています <br>
-
-### アカウント情報
-- AtCoder: [ku_senjan](https://atcoder.jp/users/ku_senjan)
-- Codeforces: [ku_senjan](https://codeforces.com/profile/ku_senjan)
-- OnlineMathContest: [ku_senjan](https://onlinemathcontest.com/users/ku_senjan)
-- Kaggle: [kogetsu0728](https://www.kaggle.com/kogetsu0728)
-- GitHub: [kogetsu0728](https://github.com/kogetsu0728)
-- Qiita: [kogetsu0728](https://qiita.com/kogetsu0728)
+情報系の高専4年生です <br>
+Vim初心者を2年ほど続けています <br>
 
 ### 大会などの実績
 - 第22回日本情報オリンピック (JOI2022/2023) 本選敢闘賞
@@ -27,3 +19,11 @@ vim初心者を2年ほど続けています <br>
 ### 資格など
 - 基本情報技術者
 - 色彩検定3級, UC級
+
+### アカウント情報
+- GitHub: [kogetsu0728](https://github.com/kogetsu0728)
+- Qiita: [kogetsu0728](https://qiita.com/kogetsu0728)
+- AtCoder: [ku_senjan](https://atcoder.jp/users/ku_senjan)
+- Codeforces: [ku_senjan](https://codeforces.com/profile/ku_senjan)
+- OnlineMathContest: [ku_senjan](https://onlinemathcontest.com/users/ku_senjan)
+- Kaggle: [kogetsu0728](https://www.kaggle.com/kogetsu0728)
