@@ -11,8 +11,56 @@
       }
 
       main {
+        --track-width: min(760px, calc(100vw - 32px));
         max-width: 760px;
         margin: 0 auto;
+        overflow-x: hidden;
+      }
+
+      h1 {
+        display: inline-block;
+        position: relative;
+        width: max-content;
+        margin: 0;
+        white-space: nowrap;
+        background-image: linear-gradient(
+          90deg,
+          #ff003c,
+          #ff8a00,
+          #ffe600,
+          #00d084,
+          #00a6ff,
+          #7a00ff,
+          #ff00b8,
+          #ff003c
+        );
+        background-size: 300% 100%;
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        will-change: transform;
+        animation: h1-marquee 6.4s linear infinite,
+          h1-rainbow 1.2s linear infinite;
+      }
+
+      @keyframes h1-marquee {
+        from {
+          transform: translateX(var(--track-width));
+        }
+
+        to {
+          transform: translateX(-100%);
+        }
+      }
+
+      @keyframes h1-rainbow {
+        from {
+          background-position: 0% 50%;
+        }
+
+        to {
+          background-position: 100% 50%;
+        }
       }
     </style>
   </head>
