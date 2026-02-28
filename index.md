@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Portfolio
+title: ku-
 ---
 
-# プロフィール
+# about me
+
 ## 所属
 - 木更津工業高等専門学校 情報工学科 (2021/04 ~ 2026/03)
     - [kisarazu.ac.jp](https://www.kisarazu.ac.jp/)
@@ -28,7 +29,7 @@ title: Portfolio
 - 色彩検定 3級 合格 (2021/12)
 - 色彩検定 UC級 合格 (2024/07)
 
-# つくったもの
+## つくったもの
 - ku-library
     - [kogetsu0728.github.io/ku-library](https://kogetsu0728.github.io/ku-library/)
     - 競技プログラミングで使用しているライブラリ
@@ -39,9 +40,7 @@ title: Portfolio
     - [kogetsu0728.github.io/tic-tac-toe](https://kogetsu0728.github.io/tic-tac-toe/)
     - 最善手のAIと対戦するマルバツゲーム
 
-# 活動記録
 ## 競技プログラミング
-### Algorithm
 - 第22回 日本情報オリンピック(2023/01)
     - 本選 敢闘賞受賞
 - PG BATTLE 2023 (2023/10)
@@ -53,6 +52,9 @@ title: Portfolio
 - AtCoder Junior League 2023 (2023/12)
     - 高3 個人ランキング 10位
     - 高校部門 学校ランキング 14位
+- 高専プロコン 第35回奈良大会 競技部門 (2024/10)
+    - チーム名「雄峰寮焼きなまし部」
+    - 準決勝進出
 - 学生向け Fixstars 高速化コンテスト 2024 (2024/11)
     - 17位
 - ICPC 2024 Asia Yokohama Regional Contest (2024/12)
@@ -61,11 +63,6 @@ title: Portfolio
 - ICPC 2025 Asia Yokohama Regional Contest (2025/12)
     - チーム名「Aqua」
     - アジア地区横浜大会 54位
-
-### Heuristic
-- 高専プロコン 第35回奈良大会 競技部門 (2024/10)
-    - チーム名「雄峰寮焼きなまし部」
-    - 準決勝進出
 - 高専プロコン 第36回松江大会 競技部門 (2025/10)
     - チーム名「TrueOne」
     - 決勝 5位
