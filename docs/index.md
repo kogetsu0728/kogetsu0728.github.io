@@ -4,28 +4,16 @@ disable_tol : true
 disable_tools : true
 ---
 
-## アカウント
-<a href="https://atcoder.jp/users/ku_senjan">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fku_senjan"
-       height="28">
-</a>
-<a href="https://codeforces.com/profile/ku_senjan">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fku_senjan"
-       height="28">
-</a><br>
-GitHub: [kogetsu0728](https://github.com/kogetsu0728)<br>
-Qiita: [kogetsu0728](https://qiita.com/kogetsu0728)
-
 ## 所属
-- 木更津工業高等専門学校 情報工学科 (2021/04 ~ 2026/03)
+- 木更津工業高等専門学校 情報工学科 (2021/04 - 2026/03)
     - [kisarazu.ac.jp](https://www.kisarazu.ac.jp/)
-- 筑波大学 情報学群 知識情報・図書館学類 (2026/04 ~)
+- 筑波大学 情報学群 知識情報・図書館学類 (2026/04 -)
     - [tsukuba.ac.jp](https://www.tsukuba.ac.jp/)
 
 ## インターンシップ
 - 株式会社タイムインターメディア (2024/08)
     - [timedia.co.jp/](https://www.timedia.co.jp/)
-- ヒラソル・エナジー株式会社 (2025/12 ~)
+- ヒラソル・エナジー株式会社 (2025/12 -)
     - [pplc.co](https://pplc.co/)
 
 ## 資格
