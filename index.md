@@ -1,3 +1,8 @@
+---
+layout: default
+title: Portfolio
+---
+
 # About
 ## 所属
 - 木更津工業高等専門学校 情報工学科 (2021/04 ~ 2026/03)

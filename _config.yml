@@ -1,0 +1,6 @@
+title: kogetsu0728.github.io
+lang: ja
+theme: null
+markdown: kramdown
+kramdown:
+  input: GFM
