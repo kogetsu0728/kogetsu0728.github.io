@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 ---
 
-# About
+# プロフィール
 ## 所属
 - 木更津工業高等専門学校 情報工学科 (2021/04 ~ 2026/03)
     - [kisarazu.ac.jp](https://www.kisarazu.ac.jp/)
@@ -28,7 +28,7 @@ title: Portfolio
 - 色彩検定 3級 合格 (2021/12)
 - 色彩検定 UC級 合格 (2024/07)
 
-# Works
+# つくったもの
 - ku-library
     - [kogetsu0728.github.io/ku-library](https://kogetsu0728.github.io/ku-library/)
     - 競技プログラミングで使用しているライブラリ
@@ -39,7 +39,7 @@ title: Portfolio
     - [kogetsu0728.github.io/tic-tac-toe](https://kogetsu0728.github.io/tic-tac-toe/)
     - 最善手のAIと対戦するマルバツゲーム
 
-# Achievements
+# 活動記録
 ## 競技プログラミング
 ### Algorithm
 - 第22回 日本情報オリンピック(2023/01)
