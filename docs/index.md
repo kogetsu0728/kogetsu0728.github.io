@@ -12,7 +12,7 @@ disable_tools : true
 
 ## インターンシップ
 - 株式会社タイムインターメディア (2024/08)
-    - [timedia.co.jp/](https://www.timedia.co.jp/)
+    - [timedia.co.jp](https://www.timedia.co.jp/)
 - ヒラソル・エナジー株式会社 (2025/12 ~)
     - [pplc.co](https://pplc.co/)
 
@@ -25,5 +25,5 @@ disable_tools : true
 - 国立情報学研究所 情報科学の達人 第一段階育成プログラム\_共同研究コース 修了 (2024/03)
     - [nii.ac.jp/tatsujin](https://www.nii.ac.jp/tatsujin/)
 - 東京大学グローバル消費インテリジェンス寄付講座(GCI) 修了 (2024/03)
-    - [gci2.t.u-tokyo.ac.jp/](https://gci2.t.u-tokyo.ac.jp/)
+    - [gci2.t.u-tokyo.ac.jp](https://gci2.t.u-tokyo.ac.jp/)
 - 情報セキュリティ大学院大学 ブロックチェーンと暗号技術 修了 (2025/08)
