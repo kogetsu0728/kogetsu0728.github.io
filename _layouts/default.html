@@ -5,21 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
     <style>
+      :root {
+        --page-padding-y: 24px;
+        --page-padding-x: 16px;
+        --content-max-width: 760px;
+        --marquee-duration: 6.4s;
+        --rainbow-duration: 1.2s;
+      }
+
       body {
         margin: 0;
-        padding: 24px 16px;
+        padding: var(--page-padding-y) var(--page-padding-x);
       }
 
       main {
-        --track-width: min(760px, calc(100vw - 32px));
-        max-width: 760px;
+        max-width: var(--content-max-width);
         margin: 0 auto;
         overflow-x: hidden;
       }
 
       h1 {
         display: inline-block;
-        position: relative;
         width: max-content;
         margin: 0;
         white-space: nowrap;
@@ -38,14 +44,16 @@
         background-clip: text;
         -webkit-background-clip: text;
         color: transparent;
+        -webkit-text-fill-color: transparent;
         will-change: transform;
-        animation: h1-marquee 6.4s linear infinite,
-          h1-rainbow 1.2s linear infinite;
+        animation:
+          h1-marquee var(--marquee-duration) linear infinite,
+          h1-rainbow var(--rainbow-duration) linear infinite;
       }
 
       @keyframes h1-marquee {
         from {
-          transform: translateX(var(--track-width));
+          transform: translateX(min(var(--content-max-width), calc(100vw - (var(--page-padding-x) * 2))));
         }
 
         to {
