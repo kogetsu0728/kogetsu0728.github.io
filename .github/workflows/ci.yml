@@ -10,5 +10,5 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: 3.13
-      - run: pip install mkdocs lantana
+      - run: pip install mkdocs mkdocs-mk2pdf-plugin
       - run: mkdocs gh-deploy --force
