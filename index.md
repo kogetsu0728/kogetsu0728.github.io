@@ -3,7 +3,7 @@ layout: default
 title: ku-
 ---
 
-# 自己紹介のページ
+# ★☆ About Me ☆★
 
 ---
 
@@ -93,5 +93,4 @@ title: ku-
 
 <div class="visitor-counter">
   <p>あなたは <strong>998244353</strong> 人目の訪問者です</p>
-  <small>キリ番踏み逃げ禁止！</small>
 </div>
