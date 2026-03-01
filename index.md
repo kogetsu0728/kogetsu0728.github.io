@@ -3,7 +3,7 @@ layout: default
 title: ku-
 ---
 
-# about me
+# 自己紹介のページ
 
 ---
 
