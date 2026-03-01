@@ -5,6 +5,8 @@ title: ku-
 
 # about me
 
+---
+
 ## 所属
 - 木更津工業高等専門学校 情報工学科 (2021/04 ~ 2026/03)
     - [kisarazu.ac.jp](https://www.kisarazu.ac.jp/)
