@@ -7,6 +7,16 @@ title: ku-
 
 ---
 
+## アカウント
+- GitHub
+    - [github.com/kogetsu0728](https://github.com/kogetsu0728/)
+- Qiita
+    - [qiita.com/kogetsu0728](https://qiita.com/kogetsu0728/)
+- AtCoder
+    - [atcoder.jp/users/ku_senjan](https://atcoder.jp/users/ku_senjan/)
+- Codeforces
+    - [codeforces.com/profile/ku_senjan](https://codeforces.com/profile/ku_senjan/)
+
 ## 所属
 - 木更津工業高等専門学校 情報工学科 (2021/04 ~ 2026/03)
     - [kisarazu.ac.jp](https://www.kisarazu.ac.jp/)
@@ -31,7 +41,7 @@ title: ku-
 - 色彩検定 3級 合格 (2021/12)
 - 色彩検定 UC級 合格 (2024/07)
 
-## つくったもの
+## 製作物
 - ku-library
     - [kogetsu0728.github.io/ku-library](https://kogetsu0728.github.io/ku-library/)
     - 競技プログラミングで使用しているライブラリ
