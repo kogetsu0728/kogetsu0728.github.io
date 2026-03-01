@@ -78,3 +78,10 @@ title: ku-
 - KOSENセキュリティコンテスト2025 (2025/10)
     - チーム名「m01nm01n」
     - 4位
+
+---
+
+<div class="visitor-counter">
+  <p>あなたは <strong>998244353</strong> 人目の訪問者です</p>
+  <small>キリ番踏み逃げ禁止！</small>
+</div>

@@ -52,6 +52,39 @@
           h1-rainbow var(--rainbow-duration) linear infinite;
       }
 
+      .visitor-counter {
+        width: fit-content;
+        max-width: 100%;
+        margin: 18px 0 0;
+        padding: 6px 8px 7px;
+        border: 1px solid #2f422f;
+        background: #020402;
+        color: #8dea94;
+        font-size: 12px;
+        line-height: 1.35;
+      }
+
+      .visitor-counter p {
+        margin: 0;
+      }
+
+      .visitor-counter strong {
+        font-size: 16px;
+        line-height: 1;
+        font-weight: 700;
+        font-family: "Courier New", Courier, monospace;
+        letter-spacing: 1px;
+        color: #b8ffbd;
+      }
+
+      .visitor-counter small {
+        display: block;
+        margin: 2px 0 0;
+        font-size: 10px;
+        line-height: 1.2;
+        color: #6fb777;
+      }
+
       @keyframes h1-marquee {
         from {
           transform: translateX(min(var(--content-max-width), calc(100vw - (var(--page-padding-x) * 2))));
