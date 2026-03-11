@@ -72,13 +72,13 @@ title: ku-
 - ICPC 2024 Asia Yokohama Regional Contest (2024/12)
     - チーム「Aqua」
     - アジア地区横浜大会 51位
-- ICPC 2025 Asia Yokohama Regional Contest (2025/12)
-    - チーム「Aqua」
-    - アジア地区横浜大会 54位
 - 高専プロコン 第36回松江大会 - 競技部門 (2025/10)
     - チーム「TrueOne」
     - 決勝 5位
     - 特別賞受賞
+- ICPC 2025 Asia Yokohama Regional Contest (2025/12)
+    - チーム「Aqua」
+    - アジア地区横浜大会 54位
 - The 17th NAPROCK International Programming Contest - Competition Section (2026/03)
     - チーム「TrueOne」
     - Final Round 4位
