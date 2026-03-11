@@ -58,13 +58,13 @@ title: ku-
 - PG BATTLE 2023 (2023/10)
     - チーム「源氏ρ」
     - 大学&大学院, 高専, 専門学校の部 44位
-- パソコン甲子園 2023 プログラミング部門 (2023/11)
+- パソコン甲子園 2023 - プログラミング部門 (2023/11)
     - チーム「源氏ρ」
     - 本選 14位
 - AtCoder Junior League 2023 (2023/12)
     - 高3 個人ランキング 10位
     - 高校部門 学校ランキング 14位
-- 高専プロコン 第35回奈良大会 競技部門 (2024/10)
+- 高専プロコン 第35回奈良大会 - 競技部門 (2024/10)
     - チーム「雄峰寮焼きなまし部」
     - 準決勝進出
 - 学生向け Fixstars 高速化コンテスト 2024 (2024/11)
@@ -75,11 +75,11 @@ title: ku-
 - ICPC 2025 Asia Yokohama Regional Contest (2025/12)
     - チーム「Aqua」
     - アジア地区横浜大会 54位
-- 高専プロコン 第36回松江大会 競技部門 (2025/10)
+- 高専プロコン 第36回松江大会 - 競技部門 (2025/10)
     - チーム「TrueOne」
     - 決勝 5位
     - 特別賞受賞
-- The 17th NAPROCK International Programming Contest Competition Section (2026/03)
+- The 17th NAPROCK International Programming Contest - Competition Section (2026/03)
     - チーム「TrueOne」
     - Final Round 4位
     - Special Prize 受賞
