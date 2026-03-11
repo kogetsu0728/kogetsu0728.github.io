@@ -17,9 +17,11 @@ title: ku-
 - Codeforces
     - [codeforces.com/profile/ku_senjan](https://codeforces.com/profile/ku_senjan/)
 
-## 所属
+## 学歴
 - 木更津工業高等専門学校 情報工学科 (2021/04 ~ 2026/03)
     - [kisarazu.ac.jp](https://www.kisarazu.ac.jp/)
+- 放送大学 教養学部 教養学科 科目履修生 (2025/10 ~ 2026/03)
+    - [ouj.ac.jp](https://www.ouj.ac.jp/)
 - 筑波大学 情報学群 知識情報・図書館学類 (2026/04 ~)
     - [tsukuba.ac.jp](https://www.tsukuba.ac.jp/)
 
