@@ -26,13 +26,13 @@ title: ku-
 - [国立情報学研究所 情報科学の達人プログラム](https://www.nii.ac.jp/tatsujin) (2023/04 ~ 2024/03)
 - [東京大学 グローバル消費インテリジェンス寄付講座 / GCI](https://gci2.t.u-tokyo.ac.jp) (2023/10 ~ 2024/03)
 - K-SEC トップオブトップス講習会 2024 (2025/03)
-	- [【K-SEC】「K-SECトップオブトップス講習会2024」を開催しました - PR Times](https://prtimes.jp/main/html/rd/p/000000462.000075419.html)
+    - [【K-SEC】「K-SECトップオブトップス講習会2024」を開催しました - PR Times](https://prtimes.jp/main/html/rd/p/000000462.000075419.html)
 - 情報セキュリティ大学院大学 ブロックチェーンと暗号技術 (2025/09)
 - K-SEC トップオブトップス講習会 2025 (2026/03)
 
 ## 資格
-- 基本情報技術者試験 (2023/04)
-- 色彩検定
+- [基本情報技術者試験](https://www.ipa.go.jp/shiken/kubun/fe.html) (2023/04)
+- [色彩検定](https://www.aft.or.jp)
     - 3級 (2021/12)
     - UC級 (2024/07)
 
@@ -83,11 +83,14 @@ title: ku-
 ## CTF
 - NEC Security Skills Challenge for Students 2024 - 高専生の部 (2024/09)
     - 10位
+    - [NEC Security Skills Challenge for Students 2024開催報告 - NEC](https://jpn.nec.com/cybersecurity/blog/241008/index.html)
 - NEC Security Skills Challenge for Students 2025 (2025/09)
     - 1位
-- KOSENセキュリティコンテスト2025 (2025/10)
+    - [NEC Security Skills Challenge for Students 2025開催報告 - NEC](https://jpn.nec.com/cybersecurity/blog/251217/index.html)
+- KOSENセキュリティコンテスト 2025 (2025/10)
     - チーム「m01nm01n」
     - 4位
+    - [【K-SEC】KOSENセキュリティコンテスト2025を開催しました - PR Times](https://prtimes.jp/main/html/rd/p/000000575.000075419.html)
 
 ---
 
