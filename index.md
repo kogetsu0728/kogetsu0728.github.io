@@ -9,27 +9,22 @@ title: ku-
 
 ## アカウント
 - GitHub
-    - [github.com/kogetsu0728](https://github.com/kogetsu0728/)
+    - [kogetsu0728](https://github.com/kogetsu0728)
 - Qiita
-    - [qiita.com/kogetsu0728](https://qiita.com/kogetsu0728/)
+    - [kogetsu0728](https://qiita.com/kogetsu0728)
 - AtCoder
-    - [atcoder.jp/users/ku_senjan](https://atcoder.jp/users/ku_senjan/)
+    - [ku_senjan](https://atcoder.jp/users/ku_senjan)
 - Codeforces
-    - [codeforces.com/profile/ku_senjan](https://codeforces.com/profile/ku_senjan/)
+    - [ku_senjan](https://codeforces.com/profile/ku_senjan)
 
 ## 学歴
-- 木更津工業高等専門学校 情報工学科 (2021/04 ~ 2026/03)
-    - [kisarazu.ac.jp](https://www.kisarazu.ac.jp/)
-- 放送大学 教養学部 教養学科 科目履修生 (2025/10 ~ 2026/03)
-    - [ouj.ac.jp](https://www.ouj.ac.jp/)
-- 筑波大学 情報学群 知識情報・図書館学類 (2026/04 ~)
-    - [tsukuba.ac.jp](https://www.tsukuba.ac.jp/)
+- [木更津工業高等専門学校](https://www.kisarazu.ac.jp) 情報工学科 (2021/04 ~ 2026/03)
+- [放送大学](https://www.ouj.ac.jp) 教養学部 教養学科 科目履修生 (2025/10 ~ 2026/03)
+- [筑波大学](https://www.tsukuba.ac.jp) 情報学群 知識情報・図書館学類 (2026/04 ~)
 
 ## 修了
-- 国立情報学研究所 情報科学の達人プログラム (2023/04 ~ 2024/03)
-    - [nii.ac.jp/tatsujin](https://www.nii.ac.jp/tatsujin/)
-- 東京大学 グローバル消費インテリジェンス寄付講座 / GCI (2023/10 ~ 2024/03)
-    - [gci2.t.u-tokyo.ac.jp](https://gci2.t.u-tokyo.ac.jp/)
+- [国立情報学研究所 情報科学の達人プログラム](https://www.nii.ac.jp/tatsujin) (2023/04 ~ 2024/03)
+- [東京大学 グローバル消費インテリジェンス寄付講座 / GCI](https://gci2.t.u-tokyo.ac.jp) (2023/10 ~ 2024/03)
 - K-SEC トップオブトップス講習会 2024 (2025/03)
 	- [【K-SEC】「K-SECトップオブトップス講習会2024」を開催しました - PR Times](https://prtimes.jp/main/html/rd/p/000000462.000075419.html)
 - 情報セキュリティ大学院大学 ブロックチェーンと暗号技術 (2025/09)
@@ -42,24 +37,19 @@ title: ku-
     - UC級 (2024/07)
 
 ## インターンシップ
-- タイムインターメディア (2024/08)
-    - [timedia.co.jp](https://www.timedia.co.jp/)
-- ヒラソル・エナジー (2025/12 ~)
-    - [pplc.co](https://pplc.co/)
+- [タイムインターメディア](https://www.timedia.co.jp) (2024/08)
+- [ヒラソル・エナジー](https://pplc.co) (2025/12 ~)
 
 ## 製作物
-- ku-library
-    - [kogetsu0728.github.io/ku-library](https://kogetsu0728.github.io/ku-library/)
+- [ku-library](https://kogetsu0728.github.io/ku-library)
     - 競技プログラミングで使用しているライブラリ
-- XorCalculator
-    - [github.com/kogetsu0728/XorCalculator](https://github.com/kogetsu0728/XorCalculator/)
+- [XorCalculator](https://github.com/kogetsu0728/XorCalculator)
     - XORだけを扱える仮想マシンとコンパイラ
-- tic-tac-toe
-    - [kogetsu0728.github.io/tic-tac-toe](https://kogetsu0728.github.io/tic-tac-toe/)
+- [tic-tac-toe](https://kogetsu0728.github.io/tic-tac-toe)
     - 最善手のAIと対戦するマルバツゲーム
 
 ## 競技プログラミング
-- [第22回 日本情報オリンピック](https://www2.ioi-jp.org/joi/2022/) (2023/01)
+- [第22回 日本情報オリンピック](https://www2.ioi-jp.org/joi/2022) (2023/01)
     - 本選 敢闘賞
 - [PG BATTLE 2023](https://products.sint.co.jp/pg_battle_2023) (2023/10)
     - チーム「源氏ρ」
