@@ -28,9 +28,10 @@ title: ku-
 ## 修了
 - 国立情報学研究所 情報科学の達人プログラム (2023/04 ~ 2024/03)
     - [nii.ac.jp/tatsujin](https://www.nii.ac.jp/tatsujin/)
-- 東京大学 グローバル消費インテリジェンス寄付講座 (2023/10 ~ 2024/03)
+- 東京大学 グローバル消費インテリジェンス寄付講座 / GCI (2023/10 ~ 2024/03)
     - [gci2.t.u-tokyo.ac.jp](https://gci2.t.u-tokyo.ac.jp/)
 - K-SEC トップオブトップス講習会 2024 (2025/03)
+	- [【K-SEC】「K-SECトップオブトップス講習会2024」を開催しました - PR Times](https://prtimes.jp/main/html/rd/p/000000462.000075419.html)
 - 情報セキュリティ大学院大学 ブロックチェーンと暗号技術 (2025/09)
 - K-SEC トップオブトップス講習会 2025 (2026/03)
 
@@ -58,33 +59,33 @@ title: ku-
     - 最善手のAIと対戦するマルバツゲーム
 
 ## 競技プログラミング
-- 第22回 日本情報オリンピック (2023/01)
+- [第22回 日本情報オリンピック](https://www2.ioi-jp.org/joi/2022/) (2023/01)
     - 本選 敢闘賞
-- PG BATTLE 2023 (2023/10)
+- [PG BATTLE 2023](https://products.sint.co.jp/pg_battle_2023) (2023/10)
     - チーム「源氏ρ」
     - 大学&大学院, 高専, 専門学校の部 44位
-- パソコン甲子園 2023 - プログラミング部門 (2023/11)
+- [全国高等学校パソコンコンクール / パソコン甲子園 2023](https://pckoshien.u-aizu.ac.jp/final/2023final.html) - プログラミング部門 (2023/11)
     - チーム「源氏ρ」
     - 本選 14位
-- AtCoder Junior League 2023 (2023/12)
+- [AtCoder Junior League 2023](https://atcoder.jp/contests/ajl2023) (2023/12)
     - 高3個人ランキング 10位
     - 高校ランキング 14位
-- 第35回 高専プロコン - 競技部門 (2024/10)
+- [第35回 全国高等専門学校プログラミングコンテスト](https://www.procon.gr.jp/archive/2024) - 競技部門 (2024/10)
     - チーム「雄峰寮焼きなまし部」
     - 準決勝進出
-- 学生向け Fixstars 高速化コンテスト 2024 (2024/11)
+- [学生向け Fixstars 高速化コンテスト 2024](https://fixstars-contest.com/contests/cpu2024) (2024/11)
     - 17位
-- ICPC 2024 アジア地区横浜大会 (2024/12)
+- [ICPC 2024 アジア地区横浜大会](https://icpc.jp/2024) (2024/12)
     - チーム「Aqua」
     - 51位
-- 第36回 高専プロコン - 競技部門 (2025/10)
+- [第36回 全国高等専門学校プログラミングコンテスト](https://www.procon.gr.jp/archive/2025) - 競技部門 (2025/10)
     - チーム「TrueOne」
     - 5位
     - 特別賞
-- ICPC 2025 アジア地区横浜大会 (2025/12)
+- [ICPC 2025 アジア地区横浜大会](https://icpc.jp/2025) (2025/12)
     - チーム「Aqua」
     - 54位
-- The 17th NAPROCK International Programming Contest - Competition Section (2026/03)
+- [The 17th NAPROCK International Programming Contest](https://naprock-procon2026.uet.vnu.edu.vn) - Competition Section (2026/03)
     - チーム「TrueOne」
     - 4位
     - Special Prize
