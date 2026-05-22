@@ -12,6 +12,8 @@ title: ku-
     - [kogetsu0728](https://github.com/kogetsu0728)
 - Qiita
     - [kogetsu0728](https://qiita.com/kogetsu0728)
+- はてなブログ
+    - [kogetsu0728](https://kogetsu0728.hatenablog.com/)
 - AtCoder
     - [ku_senjan](https://atcoder.jp/users/ku_senjan)
 - Codeforces
