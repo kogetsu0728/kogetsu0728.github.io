@@ -62,7 +62,7 @@ title: ku-
 - [AtCoder Junior League 2023](https://atcoder.jp/contests/ajl2023) (2023/12)
     - 高3個人ランキング 10位
     - 高校ランキング 14位
-- [第35回 全国高等専門学校プログラミングコンテスト](https://www.procon.gr.jp/archive/2024) - 競技部門 (2024/10)
+- [第35回 全国高等専門学校プログラミングコンテスト](https://www.procon.gr.jp/archive/2024/) - 競技部門 (2024/10)
     - チーム「雄峰寮焼きなまし部」
     - 準決勝進出
 - [学生向け Fixstars 高速化コンテスト 2024](https://fixstars-contest.com/contests/cpu2024) (2024/11)
@@ -70,7 +70,7 @@ title: ku-
 - [ICPC 2024 アジア地区横浜大会](https://icpc.jp/2024) (2024/12)
     - チーム「Aqua」
     - 51位
-- [第36回 全国高等専門学校プログラミングコンテスト](https://www.procon.gr.jp/archive/2025) - 競技部門 (2025/10)
+- [第36回 全国高等専門学校プログラミングコンテスト](https://www.procon.gr.jp/archive/2025/) - 競技部門 (2025/10)
     - チーム「TrueOne」
     - 5位
     - 特別賞
