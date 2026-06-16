@@ -17,10 +17,6 @@
         --color-link: #7dff91;
         --color-link-hover: #c8ffd0;
         --color-rule: #1f3b24;
-        --color-counter-bg: #020402;
-        --color-counter-border: #315f39;
-        --color-counter-text: #8dea94;
-        --color-counter-strong: #c8ffd0;
       }
 
       body {
@@ -79,31 +75,6 @@
         animation:
           h1-marquee var(--marquee-duration) linear infinite,
           h1-rainbow var(--rainbow-duration) linear infinite;
-      }
-
-      .visitor-counter {
-        width: fit-content;
-        max-width: 100%;
-        margin: 18px 0 0;
-        padding: 6px 8px 7px;
-        border: 1px solid var(--color-counter-border);
-        background: var(--color-counter-bg);
-        color: var(--color-counter-text);
-        font-size: 12px;
-        line-height: 1.35;
-      }
-
-      .visitor-counter p {
-        margin: 0;
-      }
-
-      .visitor-counter strong {
-        font-size: 16px;
-        line-height: 1;
-        font-weight: 700;
-        font-family: "Courier New", Courier, monospace;
-        letter-spacing: 1px;
-        color: var(--color-counter-strong);
       }
 
       @keyframes h1-marquee {
