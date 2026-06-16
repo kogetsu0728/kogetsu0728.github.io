@@ -11,18 +11,47 @@
         --content-max-width: 760px;
         --marquee-duration: 6.4s;
         --rainbow-duration: 1.2s;
+        --color-bg: #050805;
+        --color-text: #e3f7df;
+        --color-heading: #9df7a5;
+        --color-link: #7dff91;
+        --color-link-hover: #c8ffd0;
+        --color-rule: #1f3b24;
+        --color-counter-bg: #020402;
+        --color-counter-border: #315f39;
+        --color-counter-text: #8dea94;
+        --color-counter-strong: #c8ffd0;
       }
 
       body {
         margin: 0;
         padding: var(--page-padding-y) var(--page-padding-x);
-        background-color: #f3ffe6;
+        background-color: var(--color-bg);
+        color: var(--color-text);
       }
 
       main {
         max-width: var(--content-max-width);
         margin: 0 auto;
         overflow-x: hidden;
+      }
+
+      a {
+        color: var(--color-link);
+      }
+
+      a:hover,
+      a:focus {
+        color: var(--color-link-hover);
+      }
+
+      h2 {
+        color: var(--color-heading);
+      }
+
+      hr {
+        border: 0;
+        border-top: 1px solid var(--color-rule);
       }
 
       h1 {
@@ -57,9 +86,9 @@
         max-width: 100%;
         margin: 18px 0 0;
         padding: 6px 8px 7px;
-        border: 1px solid #2f422f;
-        background: #020402;
-        color: #8dea94;
+        border: 1px solid var(--color-counter-border);
+        background: var(--color-counter-bg);
+        color: var(--color-counter-text);
         font-size: 12px;
         line-height: 1.35;
       }
@@ -74,7 +103,7 @@
         font-weight: 700;
         font-family: "Courier New", Courier, monospace;
         letter-spacing: 1px;
-        color: #b8ffbd;
+        color: var(--color-counter-strong);
       }
 
       @keyframes h1-marquee {
