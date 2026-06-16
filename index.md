@@ -95,7 +95,3 @@ title: ku-
     - [【K-SEC】KOSENセキュリティコンテスト2025を開催しました - PR Times](https://prtimes.jp/main/html/rd/p/000000575.000075419.html)
 
 ---
-
-<div class="visitor-counter">
-  <p>あなたは <strong>998244353</strong> 人目の訪問者です</p>
-</div>
