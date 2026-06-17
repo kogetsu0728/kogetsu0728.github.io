@@ -47,7 +47,7 @@ title: ku-
     - 競技プログラミングで使用しているライブラリ
 - [XorCalculator](https://github.com/kogetsu0728/XorCalculator)
     - XORだけを扱える仮想マシンとコンパイラ
-- [tools](https://github.com/procon36-nitkc/tools)
+- [procon36-tools](https://github.com/procon36-nitkc/tools)
     - 第36回高専プロコン競技部門で使用したツール群
 - [manaba-notifier](https://github.com/kogetsu0728/manaba-notifier)
     - 学習管理システム manaba の更新を通知するツール
