@@ -47,8 +47,10 @@ title: ku-
     - 競技プログラミングで使用しているライブラリ
 - [XorCalculator](https://github.com/kogetsu0728/XorCalculator)
     - XORだけを扱える仮想マシンとコンパイラ
-- [tic-tac-toe](https://kogetsu0728.github.io/tic-tac-toe)
-    - 最善手のAIと対戦するマルバツゲーム
+- [tools](https://github.com/procon36-nitkc/tools)
+    - 第36回高専プロコン競技部門で使用したツール群
+- [manaba-notifier](https://github.com/kogetsu0728/manaba-notifier)
+    - 学習管理システム manaba の更新を通知するツール
 
 ## 競技プログラミング
 - [第22回 日本情報オリンピック](https://www2.ioi-jp.org/joi/2022) (2023/01)
