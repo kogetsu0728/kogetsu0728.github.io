@@ -35,7 +35,7 @@ title: ku-
 ## 資格
 - [基本情報技術者試験](https://www.ipa.go.jp/shiken/kubun/fe.html) (2023/04)
 - [色彩検定](https://www.aft.or.jp)
-    - 3級 (2021/12)
+    - 2級 (2026/07)
     - UC級 (2024/07)
 
 ## インターンシップ
