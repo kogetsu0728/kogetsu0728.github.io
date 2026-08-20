@@ -40,7 +40,7 @@ title: ku-
 
 ## インターンシップ
 - [タイムインターメディア](https://www.timedia.co.jp) (2024/08)
-- [ヒラソル・エナジー](https://pplc.co) (2025/12 ~)
+- [ヒラソル・エナジー](https://j-ems.co.jp) (2025/12 ~)
 
 ## 製作物
 - [ku-library](https://kogetsu0728.github.io/ku-library)
